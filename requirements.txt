@@ -4,7 +4,7 @@ matplotlib
 scikit-learn
 python-dotenv
 ipytest
-tensorflow==2.11.0
+tensorflow==2.14
 sagemaker
 sagemaker[local]
 ruff
@@ -12,4 +12,5 @@ nbformat
 nbdev
 nbclient
 ipykernel
+Flask
 comet_ml
